@@ -1,0 +1,226 @@
+
+.about-image{
+    height: 440px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 120px;
+    width: 1490px;
+    }
+
+.abrectangle{
+    background-color: #000000;
+    height: 50px;
+    left: 600px;
+    position: absolute;
+    border-radius: 50px;
+    opacity:0.5;
+    top: 180px;
+    width: 300px
+}
+
+
+.ablb{
+    color:white;
+    font-family:"Inter-Bold";
+    font-size: 36px;
+    left: 670px;
+    position: absolute;
+    top: 150px;
+}
+
+
+.frectangle{
+    background-color: #3b9996;
+    height: 650px;
+    left: 40px;
+    position: absolute;
+    top: 600px;
+    opacity:0.6;
+    width: 1400px
+}
+
+
+.textf{
+    color:rgb(13, 13, 13);
+    font-family:"Inter-Bold";
+    font-size: 22px;
+    left: 60px;
+    position: absolute;
+    top: 850px;
+}
+
+
+.logom{
+    height: 140px;
+    left: 670px;
+    object-fit: cover;
+    position: absolute;
+    top: 630px;
+    width: 140px;
+    border-radius:95%;
+}
+
+
+.intr{
+    color:rgb(13, 13, 13);
+    font-family:"Inter-MediumItalic";
+    font-style: "Bold";
+    font-size: 22px;
+    left: 605px;
+    position: absolute;
+    top: 780px;
+}
+
+
+.vmrectangle{
+    background-color: #3b9996;
+    height: 580px;
+    left: 250px;
+    position: absolute;
+    top: 1300px;
+    opacity:0.6;
+    width: 1000px
+}
+
+
+.viss{
+    color:rgb(13, 13, 13);
+    font-family:"Bold";
+    font-style: "Inter-Bold";
+    font-size: 22px;
+    left: 690px;
+    position: absolute;
+    top: 1350px;
+}
+
+
+.textv{
+    color:rgb(13, 13, 13);
+    font-family:"Bold";
+    font-style: "Inter-Bold";
+    font-size: 20px;
+    left: 380px;
+    position: absolute;
+    top: 1400px;
+}
+
+
+.miss{
+    color:rgb(13, 13, 13);
+    font-family:"Bold";
+    font-style: "Inter-Bold";
+    font-size: 22px;
+    left: 690px;
+    position: absolute;
+    top: 1550px;
+}
+
+
+.textm{
+    color:rgb(13, 13, 13);
+    font-family:"Bold";
+    font-style: "Inter-Bold";
+    font-size: 20px;
+    left: 380px;
+    position: absolute;
+    top: 1600px;
+}
+
+
+.rectanglea{
+background-color: #3b9996;
+height: 580px;
+left: 250px;
+position: absolute;
+top: 1920px;
+opacity:0.6;
+width: 1000px
+}
+
+
+.aimm{
+    color:rgb(13, 13, 13);
+    font-family:"Bold";
+    font-style: "Inter-Bold";
+    font-size: 22px;
+    left: 720px;
+    position: absolute;
+    top: 1970px;
+}
+
+
+.texta{
+    color:rgb(13, 13, 13);
+    font-family:"Bold";
+    font-style: "Inter-Bold";
+    font-size: 20px;
+    left: 380px;
+    position: absolute;
+    top: 2000px;
+}
+
+
+.objecttext{
+    color:rgb(13, 13, 13);
+    font-family:"Bold";
+    font-style: "Inter-Bold";
+    font-size: 20px;
+    left: 380px;
+    position: absolute;
+    top: 2200px;
+}
+
+
+.otext{
+    color:rgb(13, 13, 13);
+    font-family:"Bold";
+    font-style: "Inter-Bold";
+    font-size: 22px;
+    left: 700px;
+    position: absolute;
+    top: 2150px;
+}
+
+
+.erectangle{
+    background-color:#3b9996;
+    height: 220px;
+    left: 400px;
+    position: absolute;
+    top: 2550px;
+    opacity:0.6;
+    width: 700px
+}
+
+
+.picmy{
+    border-radius: 95px;
+    height: 145px;
+    width: 145px;
+    top: 2610px;
+    left: 500px;
+    position: absolute;
+}
+
+
+.deve{
+    color:rgb(13, 13, 13);
+    font-family:"Bold";
+    font-style: "Inter-Bold";
+    font-size: 22px;
+    left: 650px;
+    position: absolute;
+    top: 2550px;
+}
+
+
+.lableab{
+    color:rgb(13, 13, 13);
+    font-style:italic;
+    font-family: "Inter-Bold";
+    font-size: 20px;
+    left: 670px;
+    position: absolute;
+    top: 2620px;
+}

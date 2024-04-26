@@ -1,0 +1,206 @@
+.imghm{
+    height: 550px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 110px;
+    width: 1490px;
+}
+
+.image-button {
+    border-color: yellowgreen;
+    border-width: 10px;
+    cursor:pointer; /* Changes the cursor to a pointer on hover */
+    position: absolute;
+    top: 900px;
+    left: 100px;
+  }
+  
+  .image-button img {
+    width: 300px; /* Set the width of the image */
+    height: 300px; /* Maintain aspect ratio */
+  }
+
+  .button-text {
+    position: absolute;
+    top: -15%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Ensures the centering is perfect */
+    color: rgb(17, 16, 16); /* Text color */
+    font-size: 20px; /* Adjust font size as needed */
+    font-weight: bold; /* Makes the text bold */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Optional: Adds shadow for better readability */
+  }
+
+  .image1-button {
+    border-color: yellowgreen;
+    border-width: 10px;
+    cursor:pointer; /* Changes the cursor to a pointer on hover */
+    position: absolute;
+    top: 900px;
+    left: 600px;
+  }
+  
+  .image1-button img {
+    width: 300px; /* Set the width of the image */
+    height: 300px; /* Maintain aspect ratio */
+  }
+
+  .button1-text {
+    position: absolute;
+    top: -15%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Ensures the centering is perfect */
+    color: rgb(17, 16, 16); /* Text color */
+    font-size: 20px; /* Adjust font size as needed */
+    font-weight: bold; /* Makes the text bold */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Optional: Adds shadow for better readability */
+  }
+
+  .image2-button {
+    border-color: yellowgreen;
+    border-width: 10px;
+    cursor:pointer; /* Changes the cursor to a pointer on hover */
+    position: absolute;
+    top: 900px;
+    left: 1100px;
+  }
+  
+  .image2-button img {
+    width: 300px; /* Set the width of the image */
+    height: 300px; /* Maintain aspect ratio */
+  }
+
+  .button2-text {
+    position: absolute;
+    top: -15%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Ensures the centering is perfect */
+    color: rgb(17, 16, 16); /* Text color */
+    font-size: 20px; /* Adjust font size as needed */
+    font-weight: bold; /* Makes the text bold */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Optional: Adds shadow for better readability */
+  }
+
+
+  .image3-button {
+    border-color: yellowgreen;
+    border-width: 10px;
+    cursor:pointer; /* Changes the cursor to a pointer on hover */
+    position: absolute;
+    top: 1400px;
+    left: 350px;
+  }
+  
+  .image3-button img {
+    width: 300px; /* Set the width of the image */
+    height: 300px; /* Maintain aspect ratio */
+  }
+
+  .button3-text {
+    position: absolute;
+    top: -15%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Ensures the centering is perfect */
+    color: rgb(17, 16, 16); /* Text color */
+    font-size: 20px; /* Adjust font size as needed */
+    font-weight: bold; /* Makes the text bold */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Optional: Adds shadow for better readability */
+  }
+
+.imgblur{
+    background-color: #989f99;
+    height: 580px;
+    left: 110px;
+    opacity:0.4;
+    position: absolute;
+    top: 1750px;
+    width: 1400px;
+    opacity: 0.3;
+}
+
+.imgblur1{
+    left: 220px;
+    position: absolute;
+    top: 1810px;
+    width: 500px;
+    height: 450px;
+}
+
+.typing{
+    left: 810px;
+    position: absolute;
+    top: 1850px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 500px;
+    color: black;
+    font-size: 22px;
+    opacity: 0.7;
+}
+
+.typing1{
+    left: 735px;
+    position: absolute;
+    top: 1925px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100px;
+    color: black;
+    font-style: italic;
+    font-size: 22px;
+    opacity: 0.7;
+}
+
+.uhrectangle{
+    background-color:lime;
+    height: 50px;
+    left: 580px;
+    position: absolute;
+    border-radius: 50px;
+    opacity:0.7;
+    top: 700px;
+    width: 400px
+}
+
+.typing3{
+    left: 685px;
+    position: absolute;
+    top: 715px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 500px;
+    color: black;
+    font-size: 22px;
+}
+
+.userp{
+  position: absolute;
+  left:1400px;
+  top: 70px;
+  border-radius: 50%;
+}
+
+.image4-button {
+  border-color: yellowgreen;
+  border-width: 10px;
+  cursor:pointer; /* Changes the cursor to a pointer on hover */
+  position: absolute;
+  top: 1400px;
+  left: 850px;
+}
+
+.image4-button img {
+  width: 300px; /* Set the width of the image */
+  height: 300px; /* Maintain aspect ratio */
+}
+
+.button4-text {
+  position: absolute;
+  top: -15%; /* Center vertically */
+  left: 50%; /* Center horizontally */
+  transform: translate(-50%, -50%); /* Ensures the centering is perfect */
+  color: rgb(17, 16, 16); /* Text color */
+  font-size: 20px; /* Adjust font size as needed */
+  font-weight: bold; /* Makes the text bold */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Optional: Adds shadow for better readability */
+}

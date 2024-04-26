@@ -1,0 +1,55 @@
+
+
+.home-image{
+    height: 400px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 110px;
+    width: 1490px;
+    }
+
+    
+    .homerectangle{
+        background-color: #0e6512;
+        height: 580px;
+        left: 250px;
+        opacity:0.7;
+        position: absolute;
+        top: 1750px;
+        width: 1000px;
+        }
+    
+    .homebox-image{
+        height: 150px;
+        left: 380px;
+        object-fit: cover;
+        position: absolute;
+        top: 1780px;
+        width: 150px;
+        border-radius:95%;
+        }
+    
+    .typ{
+        color: #090909;
+        font-family: "Italic";
+        font-size: 28px;
+        font-style: Jomolhari;
+        font-weight: 600;
+        left: 580px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: absolute;
+        top: 1800px;
+        opacity: 0.9;
+        }
+    
+    
+    .vdo1{
+        height: 350px;
+        left: 350px;
+        object-fit: cover;
+        position: absolute;
+        top: 1950px;
+        width: 800px;
+    }

@@ -1,0 +1,238 @@
+
+.rectangle22{
+    background-color: #0afe13;
+    height: 160px;
+    left:auto;
+    position: absolute;
+    top: 1150px;
+    width: 1470px;
+    }
+
+
+.footerlb22{
+    color: #090909;
+    font-family: "Inter Extra-Light-Italic";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 600;
+    left: 570px;
+    line-height: normal;
+    position: absolute;
+    top: 1300px;
+    }
+
+
+
+.getlb22{
+    color:#090909;
+    font-family: "Bold";
+    font-style:normal;
+    font-size:18px;
+    font-weight: 100;
+    left: 20px;
+    position: absolute;
+    top: 1160px
+}
+
+
+
+.imgfb22{
+    height: 25px;
+    width: 25px;
+    left:  20px;
+    top: 1220px;
+    position: absolute;
+}
+
+
+
+.imgtw22{
+    height: 25px;
+    width: 25px;
+    left: 100px;
+    top: 1220px;
+    position: absolute;
+}
+
+
+
+.youtubeft22{
+    height: 25px;
+    width: 27px;
+    left: 60px;
+    top: 1220px;
+    position:absolute;
+}
+
+
+.addft22{
+color: #020202;
+font-style: normal;
+font-size: 15px;
+left: 190px;
+top: 1198px;
+position: absolute;
+}
+
+
+.tPnu22{
+color: #020202;
+font-style: normal;
+font-size: 15px;
+left: 350px;
+top: 1198px;
+position: absolute;
+}
+
+
+.email22{
+color: #020202;
+font-style: normal;
+font-size: 15px;
+left: 480px;
+top: 1205px;
+position: absolute;
+}
+
+
+.add22{
+color: #020202;
+font-style: normal;
+font-family: "Bold";
+font-size: 18px;
+left: 210px;
+top: 1160px;
+position: absolute;
+}
+
+
+
+.tpn22{
+color: #020202;
+font-style: normal;
+font-family: "Bold";
+font-size: 18px;
+left: 310px;
+top: 1160px;
+position: absolute;
+}
+
+
+.emid22{
+color: #020202;
+font-style: normal;
+font-family: "Bold";
+font-size: 18px;
+left: 500px;
+top: 1160px;
+position: absolute;
+}
+
+
+.navigation22{
+color: #020202;
+font-style: Italic;
+font-family: "Bold";
+font-size: 18px;
+left: 1000px;
+top: 1207px;
+position: absolute;
+}
+
+
+
+.naviimg22{
+height: 25px;
+width: 25px;
+left: 1150px;
+top: 1185px;
+position: absolute;
+}
+
+
+.naviimg23{
+height: 25px;
+width: 25px;
+left: 1150px;
+top: 1250px;
+position: absolute;
+}
+
+
+
+.naviimg24{
+height: 25px;
+width: 25px;
+left: 1320px;
+top: 1185px;
+position: absolute;
+}
+
+
+.naviimg25{
+height: 25px;
+width: 25px;
+left: 1320px;
+top: 1250px;
+position: absolute;
+}
+
+
+
+.home22{
+color: #ffffff;
+font-style: "normal";
+font-family: "Bold";
+font-size: 18px;
+left: 1200px;
+top: 1170px;
+position: absolute;
+}
+
+
+
+
+
+.contact22{
+color: #ffffff;
+font-style: "normal";
+font-family: "Bold";
+font-size: 18px;
+left: 1360px;
+top: 1170px;
+position: absolute;
+}
+
+
+
+
+
+.logo22{
+    height: 140px;
+    left: 750px;
+    object-fit: cover;
+    position: absolute;
+    top: 1160px;
+    width: 140px;
+    border-radius:95%;
+}
+
+.logonc{
+    color: #ffffff;
+font-style: "normal";
+font-family: "Bold";
+font-size: 18px;
+left: 1200px;
+top: 1250px;
+position: absolute; 
+}
+
+.ablog{
+    color: #ffffff;
+font-style: "normal";
+font-family: "Bold";
+font-size: 18px;
+left: 1360px;
+top: 1250px;
+position: absolute;
+}

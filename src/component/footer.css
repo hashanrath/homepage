@@ -1,0 +1,235 @@
+
+.rectangle10{
+    background-color: #0afe13;
+    height: 160px;
+    left:auto;
+    position: absolute;
+    top: 2350px;
+    width: 1470px;
+    }
+
+
+.footerlb10{
+    color: #090909;
+    font-family: "Inter Extra-Light-Italic";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 600;
+    left: 570px;
+    line-height: normal;
+    position: absolute;
+    top: 2500px;
+    }
+
+
+
+.getlb10{
+    color:#090909;
+    font-family: "Bold";
+    font-style:normal;
+    font-size:18px;
+    font-weight: 100;
+    left: 20px;
+    position: absolute;
+    top: 2360px
+}
+
+
+
+.imgfb10{
+    height: 25px;
+    width: 25px;
+    left:  20px;
+    top: 2430px;
+    position: absolute;
+}
+
+
+
+.imgtw10{
+    height: 25px;
+    width: 25px;
+    left: 100px;
+    top: 2430px;
+    position: absolute;
+}
+
+
+
+.youtubeft10{
+    height: 25px;
+    width: 27px;
+    left: 60px;
+    top: 2430px;
+    position:absolute;
+}
+
+
+.addft10{
+color: #020202;
+font-style: normal;
+font-size: 15px;
+left: 190px;
+top: 2400px;
+position: absolute;
+}
+
+
+.tPnu10{
+color: #020202;
+font-style: normal;
+font-size: 15px;
+left: 350px;
+top: 2400px;
+position: absolute;
+}
+
+
+.email10{
+color: #020202;
+font-style: normal;
+font-size: 15px;
+left: 480px;
+top: 2400px;
+position: absolute;
+}
+
+
+.add10{
+color: #020202;
+font-style: normal;
+font-family: "Bold";
+font-size: 18px;
+left: 210px;
+top: 2370px;
+position: absolute;
+}
+
+
+
+.tpn10{
+color: #020202;
+font-style: normal;
+font-family: "Bold";
+font-size: 18px;
+left: 310px;
+top: 2370px;
+position: absolute;
+}
+
+
+.emid10{
+color: #020202;
+font-style: normal;
+font-family: "Bold";
+font-size: 18px;
+left: 500px;
+top: 2370px;
+position: absolute;
+}
+
+
+.navigation10{
+color: #020202;
+font-style: Italic;
+font-family: "Bold";
+font-size: 18px;
+left: 1000px;
+top: 2400px;
+position: absolute;
+}
+
+
+
+.naviimg10{
+height: 25px;
+width: 25px;
+left: 1150px;
+top: 2380px;
+position: absolute;
+}
+
+
+.naviimg30{
+height: 25px;
+width: 25px;
+left: 1150px;
+top: 2460px;
+position: absolute;
+}
+
+
+
+.naviimg50{
+height: 25px;
+width: 25px;
+left: 1320px;
+top: 2380px;
+position: absolute;
+}
+
+
+.naviimg70{
+height: 25px;
+width: 25px;
+left: 1320px;
+top: 2460px;
+position: absolute;
+}
+
+
+
+.home10{
+color: #ffffff;
+font-style: "normal";
+font-family: "Bold";
+font-size: 18px;
+left: 1200px;
+top: 2365px;
+position: absolute;
+}
+
+
+.aboutus10{
+color: #ffffff;
+font-style: "normal";
+font-family: "Bold";
+font-size: 18px;
+left: 1360px;
+top: 2365px;
+position: absolute;
+}
+
+
+.contact10{
+color: #ffffff;
+font-style: "normal";
+font-family: "Bold";
+font-size: 18px;
+left: 1360px;
+top: 2445px;
+position: absolute;
+}
+
+
+.login10{
+color: #ffffff;
+font-style: "normal";
+font-family: "Bold";
+font-size: 18px;
+left: 1200px;
+top: 2445px;
+position: absolute; 
+}
+
+
+.logo10{
+    height: 140px;
+    left: 750px;
+    object-fit: cover;
+    position: absolute;
+    top: 2360px;
+    width: 140px;
+    border-radius:95%;
+}
+

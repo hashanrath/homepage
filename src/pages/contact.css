@@ -1,0 +1,251 @@
+.contactusimage{
+    height: 400px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 110px;
+    width: 1490px;
+}
+
+.contactusimage1{
+    top: 415px;
+    left: 550px;
+    width: 400px;
+    height: 60px;
+    position: absolute;
+    opacity: 0.8;
+}
+
+.firstrec{
+    background-color: #e4d3d3;
+    height: 500px;
+    left: 60px;
+    position: absolute;
+    top: 550px;
+    width: 850px;
+}
+
+.name{
+    left: 400px;
+    position: absolute;
+    top: 600px;
+    width: 25%;
+    
+}
+
+.name input{
+    width: 100%;
+    padding: 10px 0;
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+    color: #000000;
+    border-radius: 10px;
+}
+
+.email{
+    left: 400px;
+    position: absolute;
+    top: 700px;
+    width: 25%;
+    
+}
+
+.email input{
+    width: 100%;
+    padding: 10px 0;
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+    color: #000000;
+    border-radius: 10px;
+}
+
+
+
+.send{
+    color: #ffffff;
+    font-family: "Monoton-Regular";
+    font-style: "Bold";
+    font-size: 20px;
+    font-weight: 300;
+    left: 780px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 980px;
+}
+
+.send input{
+    color: #050505;
+    width: 120px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: chartreuse;
+    top: 400px;
+}
+
+.yname{
+    color: #090909;
+    font-family: "Monoton-Regular";
+    font-style: "Bold";
+    font-style: italic;
+    font-size: 22px;
+    font-weight: 300;
+    left: 150px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 610px;
+}
+
+.yemail{
+    color: #090909;
+    font-family: "Monoton-Regular";
+    font-style: "Bold";
+    font-style: italic;
+    font-size: 22px;
+    font-weight: 300;
+    left: 150px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 710px;
+}
+
+.textwap{
+    
+    left: 100px;
+    position: absolute;
+    top: 800px;
+   
+   
+}
+
+.textwap input{
+    width: 100%;
+    height: 200px;
+    border: 0;
+    outline: 0;
+    font-size: 22px;
+    color: #000000;
+    border-radius: 10px;
+}
+
+.addressrec{
+    background-color: #829082;
+    border-radius: 50px;
+    height: 50px;
+    left: 1000px;
+    position: absolute;
+    top: 600px;
+    width: 245px;
+}
+
+.emailrec{
+    background-color: #829082;
+    border-radius: 50px;
+    height: 50px;
+    left: 1000px;
+    position: absolute;
+    top: 750px;
+    width: 245px;
+}
+
+.phonerec{
+    background-color: #829082;
+    border-radius: 50px;
+    height: 50px;
+    left: 1000px;
+    position: absolute;
+    top: 900px;
+    width: 245px;
+}
+
+
+.adr{
+    color:#000000;
+    font-family:"Judson-Italic", Helvetica;
+    font-size: 22px;
+    font-style: italic;
+    left: 1080px;
+    position: absolute;
+    top:610px;
+}
+
+.ema{
+    color:#000000;
+    font-family:"Judson-Italic", Helvetica;
+    font-size: 22px;
+    font-style: italic;
+    left: 1080px;
+    position: absolute;
+    top:760px;
+}
+
+
+.phnu{
+    color:#000000;
+    font-family:"Judson-Italic", Helvetica;
+    font-size: 22px;
+    font-style: italic;
+    left: 1050px;
+    position: absolute;
+    top:910px;
+}
+
+.addresslogo{
+    height: 40px;
+    left: 1300px;
+    top: 600px;
+    width: 40px;
+    position: absolute;
+}
+
+.emaillogo{
+    height: 40px;
+    left: 1300px;
+    top: 750px;
+    width: 55px;
+    position: absolute;
+}
+
+.phlogo{
+    height: 40px;
+    left: 1300px;
+    top: 900px;
+    width: 40px;
+    position: absolute;
+}
+
+.adr1{
+    color:#000000;
+    font-family:"Judson-Italic", Helvetica;
+    font-size: 20px;
+    left: 1020px;
+    position: absolute;
+    top:670px;
+}
+
+.ema2{
+    color:#000000;
+    font-family:"Judson-Italic", Helvetica;
+    font-size: 20px;
+    left: 1020px;
+    position: absolute;
+    top:820px;
+}
+
+
+.phnu3{
+    color:#000000;
+    font-family:"Judson-Italic", Helvetica;
+    font-size: 20px;
+    left: 1020px;
+    position: absolute;
+    top:970px;
+}
+
+
+    
+            

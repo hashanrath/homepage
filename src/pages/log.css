@@ -1,0 +1,186 @@
+
+.bgimg1{
+    height: 730px;
+    left: 40px;
+    object-fit: cover;
+    position: absolute;
+    width: 1400px;
+    top: 10px;
+}
+
+
+.logrectangle{
+    background-color:#908d8d;
+    height: 500px;
+    left: 450px;
+    opacity:0.5;
+    position: absolute;
+    top: 130px;
+    width: 600px;
+}
+
+
+.imgrec1{
+    height: 450px;
+    left: 520px;
+    object-fit: cover;
+    position:absolute;
+    top: 155px;
+    width: 450px;
+    opacity:0.5;
+    
+}
+
+
+.lglable1{
+    color: #000000;
+    font-family: "Monoton-Regular";
+    font-style: "Bold";
+    font-size: 36px;
+    font-weight: 300;
+    left: 630px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 40px;
+}
+
+
+.emaillb1{
+    color: #000000;
+    font-family: "Monoton-Regular";
+    font-style: "Bold";
+    font-size: 20px;
+    font-weight: 300;
+    left: 550px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 220px;
+}
+
+
+.passlb1{
+    color: #000000;
+    font-family: "Monoton-Regular";
+    font-style: "Bold";
+    font-size: 20px;
+    font-weight: 300;
+    left: 550px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 350px;
+}
+
+.loglb1{
+    color: #ffffff;
+    font-family: "Monoton-Regular";
+    font-style: "Bold";
+    font-size: 20px;
+    font-weight: 300;
+    left: 700px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 480px;
+}
+
+.loglb1 input{
+    color: #050505;
+    width: 120px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: chartreuse;
+    top: 400px;
+}
+
+.fplable1{
+    color: #1613e9;
+    font-family: "Inter-Italic";
+    font-style: "Bold";
+    font-size: 18px;
+    font-weight: 300;
+    left: 690px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 540px;
+}
+
+
+.slable1{
+ color: #c10401;
+    font-family: "Inter-Italic";
+    font-style: "Bold";
+    font-size: 18px;
+    font-weight: 300;
+    left: 690px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 570px;
+}
+
+
+
+
+.l1{
+    color: #ffffff;
+    font-family: "Monoton-Regular";
+    font-style: "Bold";
+    font-size: 20px;
+    font-weight: 300;
+    left:1420px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 05px
+}
+.l1 input{
+    color: #050505;
+    width: 60px;
+    height: 50px;
+    background-color: chartreuse;
+    top: 50px;
+}
+
+
+.input-box{
+    left: 600px;
+    position: absolute;
+    top: 400px;
+    width: 20%;
+    
+}
+
+.input-box input{
+    width: 100%;
+    padding: 10px 0;
+    border: 0;
+    outline: 0;
+    font-size: 20px;
+    color: #000000;
+    border-radius: 10px;
+}
+
+.input-box1{
+    left: 600px;
+    position: absolute;
+    top: 260px;
+    width: 23%;
+}
+.input-box1 input{
+    width: 100%;
+    padding: 10px 0;
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+    color: #000000;
+    border-radius: 10px;
+}
+
+
+
+
+

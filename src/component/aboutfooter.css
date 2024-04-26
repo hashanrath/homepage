@@ -1,0 +1,235 @@
+
+.rectangle1{
+    background-color: #0afe13;
+    height: 160px;
+    left:auto;
+    position: absolute;
+    top: 2800px;
+    width: 1470px;
+    }
+
+
+.footerlb{
+    color: #090909;
+    font-family: "Inter Extra-Light-Italic";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 600;
+    left: 570px;
+    line-height: normal;
+    position: absolute;
+    top: 2950px;
+    }
+
+
+
+.getlb{
+    color:#090909;
+    font-family: "Bold";
+    font-style:normal;
+    font-size:18px;
+    font-weight: 100;
+    left: 20px;
+    position: absolute;
+    top: 2830px
+}
+
+
+
+.imgfb{
+    height: 25px;
+    width: 25px;
+    left:  20px;
+    top: 2885px;
+    position: absolute;
+}
+
+
+
+.imgtw{
+    height: 25px;
+    width: 25px;
+    left: 100px;
+    top: 2885px;
+    position: absolute;
+}
+
+
+
+.youtubeft{
+    height: 25px;
+    width: 27px;
+    left: 60px;
+    top: 2885px;
+    position:absolute;
+}
+
+
+.addft{
+color: #020202;
+font-style: normal;
+font-size: 15px;
+left: 190px;
+top: 2870px;
+position: absolute;
+}
+
+
+.tPnu{
+color: #020202;
+font-style: normal;
+font-size: 15px;
+left: 350px;
+top: 2870px;
+position: absolute;
+}
+
+
+.email{
+color: #020202;
+font-style: normal;
+font-size: 15px;
+left: 480px;
+top: 2880px;
+position: absolute;
+}
+
+
+.add{
+color: #020202;
+font-style: normal;
+font-family: "Bold";
+font-size: 18px;
+left: 220px;
+top: 2815px;
+position: absolute;
+}
+
+
+
+.tpn{
+color: #020202;
+font-style: normal;
+font-family: "Bold";
+font-size: 18px;
+left: 320px;
+top: 2815px;
+position: absolute;
+}
+
+
+.emid{
+color: #020202;
+font-style: normal;
+font-family: "Bold";
+font-size: 18px;
+left: 510px;
+top: 2815px;
+position: absolute;
+}
+
+
+.navigation{
+color: #020202;
+font-style: Italic;
+font-family: "Bold";
+font-size: 18px;
+left: 1000px;
+top: 2860px;
+position: absolute;
+}
+
+
+
+.naviimg1{
+height: 25px;
+width: 25px;
+left: 1150px;
+top: 2840px;
+position: absolute;
+}
+
+
+.naviimg3{
+height: 25px;
+width: 25px;
+left: 1150px;
+top: 2910px;
+position: absolute;
+}
+
+
+
+.naviimg5{
+height: 25px;
+width: 25px;
+left: 1320px;
+top: 2840px;
+position: absolute;
+}
+
+
+.naviimg7{
+height: 25px;
+width: 25px;
+left: 1320px;
+top: 2910px;
+position: absolute;
+}
+
+
+
+.home{
+color: #ffffff;
+font-style: "normal";
+font-family: "Bold";
+font-size: 18px;
+left: 1200px;
+top: 2825px;
+position: absolute;
+}
+
+
+.aboutus{
+color: #ffffff;
+font-style: "normal";
+font-family: "Bold";
+font-size: 18px;
+left: 1360px;
+top: 2825px;
+position: absolute;
+}
+
+
+.contact{
+color: #ffffff;
+font-style: "normal";
+font-family: "Bold";
+font-size: 18px;
+left: 1360px;
+top: 2892px;
+position: absolute;
+}
+
+
+.login{
+color: #ffffff;
+font-style: "normal";
+font-family: "Bold";
+font-size: 18px;
+left: 1200px;
+top: 2892px;
+position: absolute; 
+}
+
+
+.logo{
+    height: 140px;
+    left: 750px;
+    object-fit: cover;
+    position: absolute;
+    top: 2810px;
+    width: 140px;
+    border-radius:95%;
+}
+

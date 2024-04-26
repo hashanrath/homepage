@@ -1,0 +1,184 @@
+
+.bgim{
+    height: 730px;
+    left: 40px;
+    object-fit: cover;
+    position: absolute;
+    width: 1400px;
+    top: 10px;
+}
+
+.regrec{
+    background-color: #7b7474;
+    height: 650px;
+    left: 450px;
+    opacity:0.7;
+    position: absolute;
+    top: 40px;
+    width: 600px;
+}
+
+.lbuserlog{
+    color: #f3f4f6;
+    font-family: "Monoton-Regular";
+    font-style: "Bold";
+    font-size: 38px;
+    font-weight: 300;
+    left: 570px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 60px;
+}
+
+.agroi{
+    height: 480px;
+    left: 520px;
+    object-fit: cover;
+    position:absolute;
+    top: 155px;
+    width: 450px;
+    opacity:0.5;   
+}
+
+.lblogus{
+    color: #f3efef;
+    font-family: "Monoton-Regular";
+    font-style: "Bold";
+    font-size: 32px;
+    font-weight: 300;
+    left: 530px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 110px;
+}
+
+.reginfo{
+    color: #0c0c0c;
+    font-family: "Monoton-Regular";
+    font-style: "Bold";
+    font-size: 22px;
+    font-weight: 300;
+    left: 530px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 170px;
+}
+.regbt{
+    color: #ffffff;
+    font-family: "Monoton-Regular";
+    font-style: "Bold";
+    font-size: 20px;
+    font-weight: 300;
+    left: 680px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 580px;
+}
+
+.regbt input{
+    color: #050505;
+    width: 120px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: chartreuse;
+    top: 550px;
+}
+
+.textbox{
+    left: 600px;
+    position: absolute;
+    top: 205px;
+    opacity:0.7;
+    width: 22%;
+    
+}
+
+.textbox input{
+    width: 100%;
+    padding: 10px 0;
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+    color: #000000;
+    border-radius: 10px;
+}
+
+.textbox1{
+    left: 600px;
+    position: absolute;
+    top: 283px;
+    opacity:0.7;
+    width: 22%;
+    
+}
+
+.textbox1 input{
+    width: 100%;
+    padding: 10px 0;
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+    color: #000000;
+    border-radius: 10px;
+}
+
+.textbox2{
+    left: 600px;
+    position: absolute;
+    top: 363px;
+    opacity:0.7;
+    width: 22%;
+    
+}
+
+.textbox2 input{
+    width: 100%;
+    padding: 10px 0;
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+    color: #000000;
+    border-radius: 10px;
+}
+
+.textbox3{
+    left: 600px;
+    position: absolute;
+    top: 438px;
+    opacity:0.7;
+    width: 22%;
+    
+}
+
+.textbox3 input{
+    width: 100%;
+    padding: 10px 0;
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+    color: #000000;
+    border-radius: 10px;
+}
+
+.textbox4{
+    left: 600px;
+    position: absolute;
+    top: 516px;
+    opacity:0.7;
+    width: 22%;
+    
+}
+
+.textbox4 input{
+    width: 100%;
+    padding: 10px 0;
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+    color: #000000;
+    border-radius: 10px;
+}

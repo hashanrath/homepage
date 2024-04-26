@@ -1,0 +1,29 @@
+.vdo10{
+    height: 460px;
+    left: 0px;
+    object-fit: cover;
+    position: absolute;
+    top: 200px;
+    width: 1490px;
+}
+
+.rectanglenew{
+    background-color: #3b9996;
+    height: 70px;
+    left: 420px;
+    position: absolute;
+    top: 122px;
+    opacity:0.6;
+    width: 650px
+}
+
+.lablenewtech{
+    color:rgb(11, 11, 11);
+    font-family:"Italic";
+    font-style: Italic;
+    font-size: 36px;
+    left: 550px;
+    position: absolute;
+    top: 132px;
+}
+
